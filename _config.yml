@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 https://lowpe.github.io
+url:                 https://lowpe.github.io/
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
@@ -26,7 +26,7 @@ description:         >
   You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [publications, hyde]
+sidebar_tags:        [hyde]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /hydejack/public/img/nap.jpg
