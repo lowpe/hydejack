@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![me]({{ site.url }}/jekyllDemo/img/Image1_small.jpg)
+![me]({{ site.url }}/public/img/low1.jpg)
+![me]({{ site.url }}/public/img/low2.jpg)
 
 Hi, this is Lorraine ! 
 
