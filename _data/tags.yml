@@ -12,12 +12,11 @@
 # ~~~
 
 hyde:
-  name: Hyde
+  name: Publications
   image: /hydejack/public/img/hyde.jpg
   color: '#949667'
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    Here you can find a list of my publications. Hopefully some more will be coming soon !
 
 publications:
   name: Publications
