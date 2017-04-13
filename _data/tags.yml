@@ -18,9 +18,3 @@ hyde:
   description: >
     Here you can find a list of my publications. Hopefully some more will be coming soon !
 
-publications:
-  name: Publications
-  image: /hydejack/public/img/jekyll.jpg
-  color: '#949667'
-  description: >
-  Here you can find a list of my publications. Hopefully some more will be coming soon !
