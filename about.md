@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![me]({{ site.url }}/public/img/low1.jpg)
-![me]({{ site.url }}/public/img/low2.jpg)
+![me]({{ site.url }}/hydejack/public/img/low1.jpg)
+![me]({{ site.url }}/hydejack/ublic/img/low2.jpg)
 
 Hi, this is Lorraine ! 
 
