@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![me]({{ site.url }}/hydejack/public/img/low1.jpg)
-![me]({{ site.url }}/hydejack/ublic/img/low2.jpg)
-
+![me]({{ site.url }}/hydejack/public/img/low2.jpg)
+![me]({{ site.url }}/hydejack/public/img/myT13D.jpg)
 Hi, this is Lorraine ! 
 
 I am currently finishing up my PhD on the **combination of EEG and fMRI for neurofeedback** at _Inria Rennes_. 
