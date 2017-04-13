@@ -13,7 +13,7 @@ url:                 ''
 # i.e. `http://<username>.github.io`
 baseurl:             /hydejack
 
-title:               Hydejack
+title:               Lorraine Perronnet
 
 # Pagination
 paginate:            5
@@ -21,9 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`{:style="background: rgba(255, 255, 255, 0.15)"}](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  Welcome to my professional homepage !
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [hyde]
@@ -39,7 +37,7 @@ load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
 
 # About yourself
 author:
-  name:              'Florian Klampfer'
+  name:              'Lorraine Perronnet'
 
   # This photo will be used in the about section
   photo:             http://qwtel.com/public/img/flo.jpg
@@ -47,10 +45,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
-
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
+    Hi, I'm Lorraine , a PhD student.
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
