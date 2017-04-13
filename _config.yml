@@ -26,7 +26,7 @@ description:         >
   You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [hyde]
+sidebar_tags:        [publications,hyde]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /hydejack/public/img/nap.jpg
