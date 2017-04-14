@@ -24,7 +24,7 @@ description:         >
   Welcome to my professional homepage
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [hyde]
+sidebar_tags:        [events,publis]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /hydejack/public/img/nap.jpg
