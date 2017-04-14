@@ -1,6 +1,7 @@
 # Dependencies
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Permalinks
 permalink:           pretty
