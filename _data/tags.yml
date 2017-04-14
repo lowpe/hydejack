@@ -11,10 +11,16 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
+publis:
   name: Publications
-  image: /hydejack/public/img/hyde.jpg
+  image: /hydejack/public/img/bookpile.jpg
   color: '#949667'
   description: >
     Here you can find a list of my publications. Hopefully some more will be coming soon !
 
+events:
+  name: Events
+  image: /hydejack/public/img/conf_microph.jpg
+  color: '#949667'
+  description: >
+    A selection of scientific events to which I participated.
