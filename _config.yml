@@ -92,12 +92,4 @@ kramdown:
     preview:         true
     preview_as_code: true
 
-compress_html:
-  comments:          ["<!-- ", " -->"]
-  clippings:         all
-  endings:           all
-  ignore:
-    envs:            [local]
 
-sass:
-  style:             compressed
