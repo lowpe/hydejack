@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![me]({{ site.url }}/hydejack/public/img/low2.jpg)
 ![me]({{ site.url }}/hydejack/public/img/my3DT1.PNG)
 Hi, this is Lorraine ! 
 
