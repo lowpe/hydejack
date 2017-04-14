@@ -11,7 +11,7 @@ url:                 ''
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /hydejack
+baseurl:             /lorraineperronnet
 
 title:               Lorraine Perronnet
 
@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [events,publis]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/nap.jpg
+image:               /lorraineperronnet/public/img/low5.jpg
 color:               '#A85641'
 
 # Fonts
