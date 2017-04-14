@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![me]({{ site.url }}/lorraineperronnet/public/img/my3DT1.PNG)
 Hi, this is Lorraine ! 
 
 I am currently finishing up my PhD on the **combination of EEG and fMRI for neurofeedback** at _Inria Rennes_. 
@@ -19,6 +18,7 @@ I will be defending my PhD by mid 2017 and will be looking for a post-doctoral p
 
 ___
 
+![me]({{ site.url }}/lorraineperronnet/public/img/my3DT1.PNG)
 
 
 ### Contact me
