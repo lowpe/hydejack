@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pubis
+title: Publications
 permalink: /publis/
 ---
 
