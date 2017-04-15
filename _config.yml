@@ -27,8 +27,8 @@ description:         >
 sidebar_tags:        [events]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /lorraineperronnet/public/img/low_full.jpg
-color:               '#A85641'
+# image:               /lorraineperronnet/public/img/low_full.jpg
+#color:               '#A85641'
 
 # Fonts
 font:                '"PT Serif", Georgia, serif'
