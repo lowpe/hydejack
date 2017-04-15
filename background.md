@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Background
+image: /lorraineperronnet/public/img/road4.jpg
 permalink: /background/
 ---
 
