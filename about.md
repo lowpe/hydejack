@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: /lorraineperronnet/public/img/cloud_person.jpg
 permalink: /about/
 ---
 
