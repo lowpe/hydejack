@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+image: /lorraineperronnet/public/img/bookpile.jpg
 permalink: /publis/
 ---
 
