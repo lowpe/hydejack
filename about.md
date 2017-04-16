@@ -11,13 +11,13 @@ Hi, this is Lorraine !
 
 I am currently finishing up my PhD on the **combination of EEG and fMRI for neurofeedback** at _Inria Rennes_. 
 
-During the first year of my PhD I have conducted a thorough state-of-the-art of EEG-NF/BCI, fMRI-NF/BCI and of EEG-fMRI data analysis. See book chapter.
+During the first year of my PhD I have conducted a thorough state-of-the-art of EEG-NF/BCI, fMRI-NF/BCI and of EEG-fMRI data analysis (**L Perronnet**, L Anatole, F Lotte, M Clerc, C Barillot (2016). Entraîner son cerveau avec le neurofeedback / Brain training with neurofeedback. *Les interfaces cerveau-ordinateur 1 : Fondements et méthods / Brain-Computer Interfaces 1: Foundations and Methods.* pp. 277-292, (Wiley-ISTE)).
 
-In the second year, I conducted my first EEG-fMRI-NF study on healthy subjects. The goal of this study was to compare the effects of unimodal EEG-NF and fMRI-NF versus bimodal EEG-fMRI-NF. See Frontiers paper.
+In the second year, I conducted my first EEG-fMRI-NF study on healthy subjects. The goal of this study was to compare the effects of unimodal EEG-NF and fMRI-NF versus bimodal EEG-fMRI-NF (**L Perronnet**, A Lécuyer, F Lotte, M Clerc, C Barillot (2017).  [Unimodal versus bimodal EEG-fMRI neurofeedback of a motor-imagery task](http://journal.frontiersin.org/article/10.3389/fnhum.2017.00193/full). *Frontiers in Human Neuroscience.*).
 
-In the third year, I conducted my second EEG-fMRI-NF study which goal was to see if subjects would regulate EEG and fMRI differently depending on whether the feedback allowed them to discriminate both signals or not (uni-dimensional versus bi-dimensional feedback). Upcoming paper.
+In the third year, I conducted my second EEG-fMRI-NF study which goal was to see if subjects would regulate EEG and fMRI differently depending on whether the feedback allowed them to discriminate both signals or not (uni-dimensional versus bi-dimensional feedback).
 
-I will be defending my PhD by mid 2017 and will be looking for a post-doctoral position starting early 2018 (I am going home for a few months).
+I will be defending my PhD by mid 2017 and will be looking for a post-doctoral position by late 2017 (I will be spending a few months after my PhD defense in my far far away home [New Caledonia](https://en.wikipedia.org/wiki/New_Caledonia)).
 
 ___
 
