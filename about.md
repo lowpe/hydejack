@@ -5,9 +5,8 @@ image: /lorraineperronnet/public/img/cloud_person.jpg
 permalink: /about/
 ---
 
-Hi, this is Lorraine ! 
-
 ![me]({{ site.url }}/lorraineperronnet/public/img/low_small.jpg)
+Hi, this is Lorraine ! 
 
 I am currently finishing up my PhD on the **combination of EEG and fMRI for neurofeedback** at _Inria Rennes_. 
 
