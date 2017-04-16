@@ -5,8 +5,8 @@ image: /lorraineperronnet/public/img/cloud_person.jpg
 permalink: /about/
 ---
 
-
-<p><img src="/lorraineperronnet/public/img/low_small.jpg" style="width:300px;float:right;margin:0 20px 20px 0" alt="me" /> Hi, this is Lorraine !</p> <p>I am currently finishing up my PhD on the <strong>combination of EEG and fMRI for neurofeedback</strong> at <em>Inria Rennes</em>.</p> 
+<img src="/lorraineperronnet/public/img/low_small.jpg" style="width:300px;float:right;margin:0 20px 20px 0" alt="me" />
+<p> Hi, this is Lorraine !</p> <p>I am currently finishing up my PhD on the <strong>combination of EEG and fMRI for neurofeedback</strong> at <em>Inria Rennes</em>.</p> 
 
 During the first year of my PhD I have conducted a thorough state-of-the-art of EEG-NF/BCI, fMRI-NF/BCI and of EEG-fMRI data analysis (**L Perronnet**, L Anatole, F Lotte, M Clerc, C Barillot (2016). Entraîner son cerveau avec le neurofeedback / Brain training with neurofeedback. *Les interfaces cerveau-ordinateur 1 : Fondements et méthods / Brain-Computer Interfaces 1: Foundations and Methods.* pp. 277-292, (Wiley-ISTE)).
 
