@@ -23,4 +23,4 @@ ___
 
 ### Contact me
 
-<blockquote> <p>Lorraine PERRONNET, PhD student<br/>email: lorraine [dot] perronnet [at] gmail [dot] com<br/>Inria Rennes Bretagne Atlantique<br/>Visages team / Hybrid team<br/>Campus de Beaulieu<br/>35700 Rennes<br/>France </blockquote> 
+<blockquote> Lorraine PERRONNET, PhD student<br/>email: lorraine [dot] perronnet [at] gmail [dot] com<br/>Inria Rennes Bretagne Atlantique<br/>Visages team / Hybrid team<br/>Campus de Beaulieu<br/>35700 Rennes<br/>France </blockquote> 
