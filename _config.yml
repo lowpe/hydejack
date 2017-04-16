@@ -13,7 +13,7 @@ url:                 ''
 # i.e. `http://<username>.github.io`
 baseurl:             /lorraineperronnet
 
-title:               Lorraine Perronnet, PhD student
+title:               'Lorraine Perronnet</br> PhD student'
 
 # Pagination
 paginate:            5
