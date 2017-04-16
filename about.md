@@ -18,8 +18,7 @@ I will be defending my PhD by mid 2017 and will be looking for a post-doctoral p
 
 ___
 
-![me]({{ site.url }}/lorraineperronnet/public/img/my3DT1.PNG)
-<img src="lorraineperronnet/public/img/my3DT1.PNG" style="width:300px;float:left;margin:0 20px 20px" alt="My 3D T1" />
+<img src="/lorraineperronnet/public/img/my3DT1.PNG" style="width:300px;float:left;margin:0 20px 20px" alt="My 3D T1" />
 
 
 ### Contact me
