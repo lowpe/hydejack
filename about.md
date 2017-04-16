@@ -7,6 +7,8 @@ permalink: /about/
 
 Hi, this is Lorraine ! 
 
+![me]({{ site.url }}/lorraineperronnet/public/img/low_small.jpg)
+
 I am currently finishing up my PhD on the **combination of EEG and fMRI for neurofeedback** at _Inria Rennes_. 
 
 During the first year of my PhD I have conducted a thorough state-of-the-art of EEG-NF/BCI, fMRI-NF/BCI and of EEG-fMRI data analysis. See book chapter.
@@ -18,7 +20,6 @@ In the third year, I conducted my second EEG-fMRI-NF study which goal was to see
 I will be defending my PhD by mid 2017 and will be looking for a post-doctoral position starting early 2018 (I am going home for a few months).
 
 ___
-![me]({{ site.url }}/lorraineperronnet/public/img/low5.jpg)
 
 ![me]({{ site.url }}/lorraineperronnet/public/img/my3DT1.PNG)
 
