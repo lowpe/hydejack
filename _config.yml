@@ -13,7 +13,7 @@ url:                 ''
 # i.e. `http://<username>.github.io`
 baseurl:             /lorraineperronnet
 
-title:               'Lorraine Perronnet</br> PhD student'
+title:               'Lorraine Perronnet'
 
 # Pagination
 paginate:            5
@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Welcome to my professional homepage
+  PhD student
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [events]
