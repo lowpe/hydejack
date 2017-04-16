@@ -5,6 +5,10 @@ image: /lorraineperronnet/public/img/cloud_person.jpg
 permalink: /about/
 ---
 
+
+<p><img src="/lorraineperronnet/public/img/low_small.jpg" style="width=100px;float:right;margin:0 20px 20px 0" alt="me" /> Hi, this is Lorraine !</p> <p>I am currently finishing up my PhD on the <strong>combination of EEG and fMRI for neurofeedback</strong> at <em>Inria Rennes</em>.</p> 
+
+
 ![me]({{ site.url }}/lorraineperronnet/public/img/low_small.jpg)
 Hi, this is Lorraine ! 
 
