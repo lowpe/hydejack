@@ -27,9 +27,15 @@ ___
 ### Contact me
 
 > Lorraine PERRONNET, PhD student
+>
 > email: lorraine [dot] perronnet [at] gmail [dot] com
+>
 > Inria Rennes Bretagne Atlantique
+>
 > Visages team / Hybrid team
+>
 > Campus de Beaulieu
+>
 > 35700 Rennes
+>
 > France
