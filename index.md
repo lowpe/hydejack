@@ -4,6 +4,8 @@ title: Home
 image: /lorraineperronnet/public/img/cloud_person.jpg
 ---
 
+## About
+
 <img src="/lorraineperronnet/public/img/low_small.jpg" style="width:300px;float:right;margin:0 20px 0 20px" alt="me" />
 <p> Hi, this is Lorraine !</p> <p>I am currently finishing up my PhD on the <strong>combination of EEG and fMRI for neurofeedback</strong> at <em>Inria Rennes</em>.</p> 
 
@@ -18,3 +20,6 @@ I will be defending my PhD by mid 2017 and will be looking for a post-doctoral p
 ---
 
 <img src="/lorraineperronnet/public/img/my3DT1.PNG" style="width:250px;float:left;margin:0 20px 20px" alt="My 3D T1" />
+### Contact me
+
+<blockquote> Lorraine PERRONNET, PhD student <br/> email: lorraine [dot] perronnet [at] gmail [dot] com <br/>Inria Rennes Bretagne Atlantique<br/>Visages team / Hybrid team<br/>Campus de Beaulieu<br/>35700 Rennes<br/>France </blockquote> 
