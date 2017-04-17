@@ -4,7 +4,9 @@ title: Home
 image: /lorraineperronnet/public/img/cloud_person.jpg
 ---
 
-## About
+# About
+
+---
 
 <img src="/lorraineperronnet/public/img/low_small.jpg" style="width:300px;float:right;margin:0 20px 0 20px" alt="me" />
 <p> Hi, this is Lorraine !</p> <p>I am currently finishing up my PhD on the <strong>combination of EEG and fMRI for neurofeedback</strong> at <em>Inria Rennes</em>.</p> 
