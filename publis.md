@@ -13,3 +13,7 @@ Here you can find a list of my publications. Hopefully some more will be coming 
 * E Bannier, M Mano, S Robert, I Corouge, **L Perronnet**, J Lindgren, A Lécuyer, C Barillot (2015). On the feasibility and specificity of simultaneous EEG and ASL MRI at 3T. *Proceedings of ISMRM.*
 * **L Perronnet**, ME Vilarchao, G Hucher, DE Shulz, G Peyré, I Ferezou (2016). [An automated workflow for the anatomo-functional mapping of the barrel cortex](http://www.sciencedirect.com/science/article/pii/S0165027015003416). *Journal of neuroscience methods 263, 145-154.*
 
+## Conferences
+* L Perronnet [Neurofeedback unimodal ou bimodal ? Intérêt de l'EEG et de l'IRMF](https://lowpe.github.io/lorraineperronnet/2017/01/25/next.md/). *2ème journée nationale sur le neurofeedback*, ESPCI Paris, France, January 2017. [Invited talk]
+* L Perronnet, A Lécuyer, M Mano, E Bannier, F Lotte, M Clerc, C Barillot. [EEG-fMRI neurofeedback of a motor imagery task](https://lowpe.github.io/lorraineperronnet/2016/06/29/ohbm2016.md/), *22nd Annual Meeting of the Organization for Human Brain Mapping (OHBM 2016)*, Geneva Palexpo, Switzerland, June 2016. [Poster]
+* [HEMISFER: Hybrid Eeg-MrI and Simultaneous neuro-FEedback for brain Rehabilitation](https://lowpe.github.io/lorraineperronnet/2016/01/19/first_french_NF_day/). *1ère journée nationale sur le neurofeedback*, ICM, Paris, France, January 2016. [Poster]
