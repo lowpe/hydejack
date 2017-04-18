@@ -11,7 +11,7 @@ image: /lorraineperronnet/public/img/cloud_person.jpg
 <img src="/lorraineperronnet/public/img/low_small2.jpg" style="width:280px;float:right;margin:45px 0 20px 20px" alt="me" />
 <p> Hi, this is Lorraine !</p> <p>I am currently finishing up my PhD on the <strong>combination of electroencephalography (EEG) and functional magnetic resonance imaging (fMRI) for neurofeedback (NF)</strong> at <em>Inria Rennes</em>.</p> 
 
-My PhD is part of the [Hemisfer project](https://www.researchgate.net/project/Hemisfer) (Hybrid Eeg-MrI and Simultaneous neuro-feedback for brain Rehabilitation) and contributed to the very first development of bimodal EEG-fMRI-NF in France.
+My PhD is part of the [Hemisfer project (Hybrid Eeg-MrI and Simultaneous neuro-feedback for brain Rehabilitation)](https://www.researchgate.net/project/Hemisfer) and contributed to the very first development of bimodal EEG-fMRI-NF in France.
 
 During the first year of my PhD I have conducted a thorough state-of-the-art of EEG-NF/BCI (brain-computer interfaces), fMRI-NF/BCI and of EEG-fMRI data analysis (**L Perronnet**, A Lécuyer, F Lotte, M Clerc, C Barillot (2016). Entraîner son cerveau avec le neurofeedback / Brain training with neurofeedback. *Les interfaces cerveau-ordinateur 1 : Fondements et méthods / Brain-Computer Interfaces 1: Foundations and Methods.* pp. 277-292, (Wiley-ISTE)).
 
