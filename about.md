@@ -18,8 +18,9 @@ In the third year, I conducted my second EEG-fMRI-NF study which goal was to see
 
 I will be defending my PhD by mid 2017 and will be looking for a post-doctoral position by late 2017 (I will be spending a few months after my PhD defense in my far far away home [New Caledonia](https://en.wikipedia.org/wiki/New_Caledonia)).
 
---- 
+</br>
 ## Research interests
+--- 
 - NF mechanisms
 - How does task design affect NF learning ?
 - Do the different components of the hemodynamic response function (HRF) evolve with NF training ?
