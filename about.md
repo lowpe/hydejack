@@ -32,4 +32,4 @@ I will be defending my PhD by mid 2017 and will be looking for a post-doctoral p
 
 ### Contact me
 
-<blockquote> Lorraine PERRONNET, PhD student <br/> email: lorraine [dot] perronnet [at] gmail [dot] com <br/>Inria Rennes Bretagne Atlantique<br/>Visages team / Hybrid team<br/>Campus de Beaulieu<br/>35700 Rennes<br/>France </blockquote> 
+<blockquote> Lorraine PERRONNET, PhD student <br/> email: lorraine [dot] perronnet [at] inria [dot] fr <br/>Inria Rennes Bretagne Atlantique<br/>Visages team / Hybrid team<br/>Campus de Beaulieu<br/>35700 Rennes<br/>France </blockquote> 
