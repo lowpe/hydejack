@@ -27,7 +27,7 @@ I will be defending my PhD by mid 2017 and will be looking for a post-doctoral p
 - How does task design affect NF learning ?
 - Do the different components of the hemodynamic response function (HRF) evolve with NF training ?
 - Clinical applications of NF
-- Dreaming of a future with [ultrafast ultrasound imaging NF](http://fultrasound.eu/technology/)
+- Dreaming of the feasibility of [functional ultrasound-based NF](http://fultrasound.eu/technology/)
 
 ---
 
